@@ -1,5 +1,6 @@
 Feature:Critical functionalities
 
+  @test
   Scenario: user is able to see tabs :book,flight status,check-in etc
     Given verify all the tabs on the homepage
 
