@@ -1,14 +1,14 @@
 Feature:
 
 
-  @demo
+
   Scenario: user is able to change language
     Given click on the language selector button in the header
     And click on the select language dropdown
     Then select the desirable option from dropdown
     Then click on the change button
     And verify the language is changed successfully
-  @demo
+
 
   Scenario: Home page booker container tabs should display correct fields
     Given click on the Book tab
@@ -19,7 +19,7 @@ Feature:
     And verify Checks in tab shows correct fields
     Then click on the My Trips tab
     And verify My Trips shows correct fields
-  @demo
+
 
   Scenario: Advisory top section should display info with links
     Given verify user is on home page
