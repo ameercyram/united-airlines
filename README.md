@@ -21,3 +21,16 @@
 
 ![image](https://user-images.githubusercontent.com/91909755/147387330-1fb282b5-104d-4741-b565-082cb1152ffb.png)
 
+
+##### In this project, we developed total of 51 Test cases
+smoke test cases: 4
+sanity test cases: 5
+regression test case: 42
+
+
+##### This is how my project Allure Report looks like
+<img width="1777" alt="Screen Shot 2021-12-25 at 9 43 45 AM" src="https://user-images.githubusercontent.com/91909755/147387468-91ab57a8-0a52-449d-acc3-76d1e23009f6.png">
+
+
+
+
